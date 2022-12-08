@@ -1,9 +1,9 @@
 """
-Project: Student library management system
+Project: Student Library Management System
 """
 
 
-class library:
+class Library:
     def __init__(self, listofBooks):
         self.books = listofBooks
 
