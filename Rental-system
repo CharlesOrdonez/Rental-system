@@ -1,15 +1,16 @@
 """
-Project: RENTAL system
+Project: Student library management system
 """
 
+
 class Library:
-  def__init__(self, lisofBooks):
-    self.books = listofBooks
-    
+    def __init__(self, listofBooks):
+        self.books = listofBooks
+
     def displayAvailableBooks(self):
-      print(f"\n{len(self.books)} AVAILABLE BOOKS ARE: ')
-      for book in self.books:
-         print(" ♦-- " + book)
+        print(f"\n{len(self.books)} AVAILABLE BOOKS ARE: ")
+        for book in self.books:
+            print(" ♦-- " + book)
         print("\n")
 
     def borrowBook(self, name, bookname):
