@@ -3,7 +3,7 @@ Project: Student library management system
 """
 
 
-class Library:
+class library:
     def __init__(self, listofBooks):
         self.books = listofBooks
 
