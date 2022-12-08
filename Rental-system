@@ -51,7 +51,7 @@ class Student():
 if _name_ == '_main_':
 
     Earslibrary = Library(
-        ["Ears of George", "Legend of Ears", "George the Great Ear", "Journey to the ears", "Komiks", "World War II: Ears of Death"])
+        ["Ears of George", "Legend of Ears", "George the Great Ear", "Journey to the Ears", "Komiks", "World War II: Ears of Death"])
     student = Student()
     track = []
 
