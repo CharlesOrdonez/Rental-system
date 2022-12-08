@@ -1,0 +1,4 @@
+class Library:
+  def__init__(self, lisofBooks):
+    self.books = listofBooks
+    
