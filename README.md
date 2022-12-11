@@ -5,8 +5,8 @@ This project majorly focus on Object-Oriented_Programming(OOP). We created a lib
 ## The Library Management System will have the following listed features:
     
 Listing All Books
-Borrow Book: The user can borrow any available book.
-Return Book: The user can return any issued book and see if any fine is applicable.
-Donate Books: The User Can donate any Books he wanted to donate.
-Track Books: The User can track all the issued books.
-Exit the library: Exit the program.
+1.Borrow Book: The user can borrow any available book.
+2.Return Book: The user can return any issued book and see if any fine is applicable.
+3.Donate Books: The User Can donate any Books he wanted to donate.
+4.Track Books: The User can track all the issued books.
+5.Exit the library: Exit the program.
