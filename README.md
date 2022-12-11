@@ -1,6 +1,7 @@
 # Rental-systemPython project - Library Management System 
 
-This project majorly focus on Object-Oriented_Programming(OOP). We created a library where student/anyone borrow books, return books, donate books to library and track all books which are taken by students/anyone.
+This project majorly focus on Object-Oriented_Programming(OOP). We created a library where student/anyone borrow books, return books, donate books to library and track all books which are taken by students/anyone.A library management system is used to maintain library records. It tracks the records of the books in the library, what  books are issued, or what books have been returned.
+A library management system's goal is to instantly and accurately provide information about any type of book, saving a great deal of time and effort.
 
 ## The Library Management System will have the following listed features:
     
