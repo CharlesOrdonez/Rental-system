@@ -14,7 +14,7 @@ Listing All Books
 
 ## UML Diagram for Rental System
 
-![318573935_695641045480163_4447426044810326287_n](https://user-images.githubusercontent.com/113277472/206910175-f2334b2b-97da-42e3-9dd9-b3996ac0a216.png)
+![316732038_1301016043966829_9135098054218557143_n](https://user-images.githubusercontent.com/113277472/206990414-7fe5356a-36e9-4c14-96a7-762731e02107.png)
 
 
 
